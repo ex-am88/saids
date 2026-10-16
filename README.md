@@ -16,4 +16,4 @@ python3 -m pip install notebook numpy pandas matplotlib seaborn scipy scikit-lea
 
 **Step 3:** Launch Jupyter Notebook
 
-**Step 4:** Create a new Python notebook and start performing your experiments, following the **1 Step = 1 Cell** rule.
+**Step 4:** Create a new Python notebook and start performing your experiments, following the **1 Step = 1 Cell** 
