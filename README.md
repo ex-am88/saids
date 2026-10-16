@@ -1,4 +1,4 @@
-# SAIDS Practicals — Jupyter Notebook Instructions
+# SAIDS 
 
 ## 1 Step = 1 Cell in Jupyter Notebook
 
