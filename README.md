@@ -6,7 +6,7 @@ Complete each experiment by writing **one step in one Jupyter Notebook cell**. E
 
 ## Install Jupyter Notebook and the Required Libraries
 
-**Step 1:** Open your Terminal in macOS.
+**Step 1:** Open your Terminal 
 
 **Step 2:** Paste and execute the following command:
 
